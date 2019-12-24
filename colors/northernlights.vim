@@ -62,3 +62,4 @@ hi! Folded guibg=#161E2E guifg=#668ACC ctermfg=111 ctermbg=234
 hi! FoldColumn guibg=#0A0D14 guifg=#668ACC ctermbg=230 ctermfg=111
 
 hi! WildMenu guifg=#0F141F guibg=#668ACC ctermfg=230 ctermbg=111
+hi! VertSplit guifg=#0A0D14 guibg=#0A0D14 ctermfg=230 ctermbg=230
