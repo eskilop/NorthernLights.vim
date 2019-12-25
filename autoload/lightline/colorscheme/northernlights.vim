@@ -7,7 +7,7 @@ let s:p.normal.error = [ [ '#CC6666', '#0F141F', 210, 233 ] ]
 let s:p.normal.warning = [ [ '#CC9966', '#0F141F', 215, 233 ] ]
 
 
-let s:p.inactive.right = [ [ '#E3EDFF', '#182133', 250, 235 ], [ '#E3EDFF', '#161E2E', 250,  ], [ '#E3EDFF', '#0F141F', 250, 233 ] ]
+let s:p.inactive.right = [ [ '#E3EDFF', '#182133', 250, 235 ], [ '#E3EDFF', '#161E2E', 250, 234 ], [ '#E3EDFF', '#0F141F', 250, 233 ] ]
 let s:p.inactive.middle = [ [ '#E3EDFF', '#0A0D14', 250, 232 ] ]
 let s:p.inactive.left = s:p.inactive.right[1:]
 
